@@ -1,5 +1,5 @@
-# Interactive-Dashboard-Using-Power-BI
-- This project is part of assingment for Microsoft Power BI Desktop for Business Intelligence (2023) on 11/28/2023 as taught by Maven Analytics, Chris Dutton, Aaron Parry on Udemy. 
+# Adventure work Bussiness Inteligence report - Interactive-Dashboard-Using-Power-BI
+- This project is part of assingment for Microsoft Power BI Desktop for Business Intelligence (2023) taught by Maven Analytics, Chris Dutton, Aaron Parry on Udemy. 
 - Course is availbe on [Udemy Platform] (https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/). I took the course as part of [Programme in Data Analytics | IBM | SkillUp | 2023 availble on] (https://skills.yourlearning.ibm.com/activity/PLAN-140B7B12702D?focuslmsId=UDEMY-937678)
 - Data provided by the **Maven Analytics** at DOWNLOAD: Course Resources lecture section.
 - For privecy concerns I mask any personal info.

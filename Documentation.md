@@ -1,7 +1,9 @@
 ## User Story
+
 As a **Business Intelligence Analyst for AdventureWorks Cycles**, I want to transform raw data into professional-quality reports and dashboards. 
 This will enable me to track **Key Performance Indicators** (KPIs), compare regional performance, analyze product-level trends, and identify high-value customers. 
 Following the key stages of the business intelligence workflow, I aim to simulate real-world tasks that data professionals encounter on the job.
+
 ------
 ##  Key stages of the business intelligence workflow
 ### Stage 1: Data Connection & Shaping

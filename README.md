@@ -1,6 +1,14 @@
-# Adventure work Bussiness Intelligence Reports - Interactive-Dashboard-Using-Power-BI
-- **Adventure work's Bussiness Intelligence Reports** is part of assingment for Microsoft Power BI Desktop for Business Intelligence (2023) taught by Maven Analytics, Chris Dutton, Aaron Parry on Udemy.
+# Adventure Work's Bussiness Intelligence Reports
+## Interactive-Dashboard-Using-Power-BI
 
+# 📝 Table of Contents
+- [About The Project](#About-The-Project)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
+## 🧐 About <a name = "about"></a>
+**Adventure work's Bussiness Intelligence Reports** is part of assingment for Microsoft Power BI Desktop for Business Intelligence (2023) taught by Maven Analytics, Chris Dutton, Aaron Parry on Udemy.
 ```mermaid
 graph TD;
     id1(Business understandin)-->id2(Data exploration and preparation);

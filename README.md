@@ -6,14 +6,26 @@
 - [Demo](#demo)
 - [Business Understanding](#workflow)
 - [Data Understanding](#data_undestanding)
+- [Screenshot of visualization/result](#screenshot)
 - [Technologies](#techs)
+- [Setup](#setup)
 - [Approach](#approach)
 - [Database Model Diagram](#database)
 - [Status](#status)
 - [Credits](#credits)
 ## About <a name = "about"></a>
 **Adventure works Bussiness Intelligence Reports** is part of assingment for Microsoft Power BI Desktop for Business Intelligence (2023) taught by Maven Analytics, Chris Dutton, Aaron Parry on Udemy. I Transformed Data into Business Insights for Adventure Works.<br/>
-This interactive dashboard includs:
+This interactive dashboard includs: 
+- Executive DAshboard
+- Map
+- Product Detail
+- Customer Detail
+- Anomaly of Revenue
+- Q & A Sample
+- Decoposition Tree
+- Key Influencers
+- Mobile Layout for Executive dashboard
+  
 ### Unlocking Key Sales Performance with the Executive Dashboard:
 
 This high-level view focuses on the top 10 products, providing critical insights into their performance through:
@@ -130,7 +142,7 @@ This mobile executive dashboard transcends geographical limitations, keeping you
 
   
 ## Demo <a name="demo"></a>
-For viewing a sample of result please check here https://github.com/masumesani/Interactive-Dashboard-Using-Power-BI/blob/main/AdventureWorkDashboard.pdf
+For viewing a sample of result please check [here](https://github.com/masumesani/Interactive-Dashboard-Using-Power-BI/blob/main/AdventureWorkDashboard.pdf)
 
 ## Business Understanding <a name= "workflow"></a>
 As a Business Intelligence Analyst for Adventure Works Cycles, I want to transform raw data into professional-quality reports and dashboards. This will enable me to track Key Performance Indicators (KPIs), compare regional performance, analyze product-level trends, and identify high-value customers. <br/>
@@ -149,7 +161,7 @@ Navigating this complex landscape presents challenges. Optimizing sales across t
 - **Predict future trends:** Leverage historical data and emerging market signals to anticipate shifts in customer preferences and prepare for future success.<br/>
 
 >[!NOTE]
-> For more information about detailed steps and phase please check project documentation here: https://github.com/masumesani/Interactive-Dashboard-Using-Power-BI/blob/main/Documentation.md#user-story
+> For more information about detailed steps and phase please check project documentation [here](https://github.com/masumesani/Interactive-Dashboard-Using-Power-BI/blob/main/Documentation.md#user-story)
 
 ## Data Understanding <a name="data_undestanding"></a>
 To explore and analyze various business scenarios, we will be using a simulated dataset provided Maven Analytics. This dataset, divided into sales (56,046 entries), returns (1,809 entries), and products (293 entries), offers valuable insights for learning purposes. Remember that the data is accessible within this course.
@@ -169,9 +181,18 @@ This project embarks on a journey to unlock the secrets behind Adventure Works, 
 - **Sales Success Stories:** Analyze sales figures and identify key drivers of revenue using the sales data.<br/>
 - **Return Reflections:** Gain insights into customer returns with the return data, potentially revealing product issues or opportunities for improvement.<br/>
 
+## Screenshot of visualization/result <a name="screenshot"></a>
+Following is a screenshot of Executive Dashboard
+
+
+![AdventureworksExecutiveDashbourd](https://github.com/masumesani/Interactive-Dashboard-Using-Power-BI/assets/31848828/71e05cfa-24f7-41a1-840d-10747d5ccd55)
+
+
+
 ## 🗄️ Database Model Diagram <a name ="database"></a>
-Check the DB Model Diagram here https://dbdiagram.io/d/Adventure-Work-657f111756d8064ca02ecfe3
+Check the DB Model Diagram [here](https://dbdiagram.io/d/Adventure-Work-657f111756d8064ca02ecfe3)
 ![Adventure Work Data model diagram  (1)](https://github.com/masumesani/Interactive-Dashboard-Using-Power-BI/assets/31848828/fea8bcb4-859a-468e-9ace-ce95941d175c)
+
 
 ## Technologies <a name = "techs"></a>
 
@@ -182,7 +203,9 @@ Empowering data-driven decisions, developed a comprehensive Business Intelligenc
 - **Integrated data modeling** (snowflake schema),
 - **Robust statistical analysis**,
 - **Interactive reporting** to provide a holistic view of business performance.Given stakeholders can now confidently navigate dynamic reports, gleaning critical insights to make informed choices.
-- 
+
+## Setup <a name="setup"><a/>
+For setup follow steps [here](https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop) 
 ## Approach  <a name = "approach"></a>
 To bring data to life and implement an effective, actionable insight following steps of data science methodology were taken: 
 ```mermaid
@@ -194,7 +217,7 @@ graph TD;
 ## Status <a name="status"><a/>
 Compeleted.
 ## Credits <a name="credits"></a>
-Course is availbe on [Udemy Platform] (https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/). I took the course as part of [Programme in Data Analytics | IBM | SkillUp | 2023 availble on] (https://skills.yourlearning.ibm.com/activity/PLAN-140B7B12702D?focuslmsId=UDEMY-937678)
+Course is availbe on [Udemy Platform](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/). I took the course as part of [Programme in Data Analytics | IBM | SkillUp | 2023 availble on](https://skills.yourlearning.ibm.com/activity/PLAN-140B7B12702D?focuslmsId=UDEMY-937678)
 Data provided by the **Maven Analytics** at DOWNLOAD: Course Resources lecture section.
 
 > [!IMPORTANT]

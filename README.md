@@ -6,6 +6,7 @@
 - [Demo](#demo)
 - [Business Understanding](#workflow)
 - [Data Understanding](#data_undestanding)
+- [Technologies](#techs)
 - [Approach](#approach)
 - [Database Model Diagram](#database)
 - [Status](#status)
@@ -35,6 +36,98 @@ The dashboard automatically adapts goals based on previous months' performance, 
 - **Data-driven decision-making:** Base your strategies on objective performance data.
 - **Target awareness:** Monitor progress towards dynamic sales goals, ensuring accountability and focus.
 - **Drill-down capabilities:** Deep dive into specific products and timeframes for further analysis.
+
+### Overview of KPI worldwide with a interactive map:
+- Utalizing geopatial data and tooltips
+
+### Dive Deeper into Product Performance: The Product Details Dashboard
+This interactive dashboard empowers business sponsors to delve into the granular details of product performance, offering a deeper understanding beyond the high-level view provided by the executive dashboard. Designed for focused analysis, it allows sponsors to drill down on specific products and gain valuable insights into their key performance indicators (KPIs).
+
+**Unveiling Key Metrics:**
+
+- **Total Order:** Instantly grasp the demand for each product, identifying potential bestsellers and areas for improvement.
+- **Total Return:** Monitor return trends and identify potential product issues or optimization opportunities.
+- **Total Revenue:** Evaluate the financial contribution of each product, guiding strategic decisions for profitability and growth.
+- **Return Rate:** Analyze the percentage of returns for each product, uncovering potential quality concerns or market misalignment.
+  
+**Target-Driven Insights:**
+
+- **Monthly Orders vs. Target:** Track progress towards sales goals and identify areas needing attention.
+- **Monthly Profit vs. Target:** Assess profitability per product, ensuring alignment with financial objectives.
+- **Monthly Revenue vs. Target:** Monitor revenue generation by product, making informed decisions about resource allocation and marketing strategies.
+
+**Interactive Exploration:**
+
+- **Drill-down capabilities:** Seamlessly navigate to sub-product levels or specific timeframes for even more granular insights.
+- **Filter and customize:** Tailor the dashboard to your specific interests, focusing on relevant products and periods.
+
+**Unlocking Business Value:**
+
+By providing a comprehensive view of product performance at your fingertips, this dashboard empowers sponsors to:
+
+- **Make data-driven decisions:** Leverage actionable insights to optimize product offerings, pricing strategies, and marketing campaigns.
+- **Identify opportunities for growth:** Pinpoint high-performing products and address challenges faced by underperformers.
+- **Proactively manage risk:** Monitor return rates and profitability trends to mitigate potential issues.
+- **Drive profitability and efficiency:** Allocate resources effectively based on data-driven insights.
+  
+This Product Details Dashboard empowers business sponsors to become true product performance champions, driving informed decisions for sustainable growth and success.
+
+### Unveiling Your Customer Landscape: The Customer Insights Dashboard
+This interactive dashboard paints a vivid picture of your customer base, empowering you to understand their behavior, identify valuable segments, and optimize marketing strategies. Dive deeper into the hearts and minds of your customers with a wealth of insights at your fingertips.
+
+**Segmentation at a Glance:**
+
+- **Donut Chart:** Gain instant insights into the distribution of orders by customer income and occupation. Identify lucrative segments and tailor your offerings accordingly.
+- **Yearly Line Chart:** Track the evolution of revenue per customer over time, uncovering trends and potential areas for improvement. Understand how customer value evolves and identify valuable loyalty programs.
+
+**Top Performers Spotlight:**
+
+- **Top 100 Customers:** Identify your most valuable customers based on both revenue and orders. Prioritize engagement and retention efforts for these key contributors.
+- **Top Customer by Revenue:** Deep dive into the profile of your revenue champion. Analyze their purchase history, preferences, and demographics to unlock insights into high-value customer behavior.
+- **Orders and Revenue Breakdown:** Explore the detailed picture behind your top customer's contribution, understanding the specific orders and revenue they generated.
+  
+**Customer Acquisition Insights:**
+
+- **Total Unique Customers:**  Track the overall growth of your customer base and measure the effectiveness of your acquisition efforts.
+
+**Interactive Exploration:**
+
+- **Drill-down capabilities:** Delve deeper into specific customer segments or individual profiles for granular insights.
+- **Filtering and customization:** Tailor the dashboard to your specific interests, focusing on relevant demographics, timeframes, or product categories.
+- **Comparative analysis:** Benchmark different customer segments against each other to identify trends and performance gaps.
+  
+**Unlocking Business Value:**
+
+By harnessing the power of customer data, this dashboard empowers you to:
+
+- **Make data-driven marketing decisions:** Tailor campaigns and offerings to specific customer segments for maximum impact.
+- **Identify loyalty drivers:** Recognize and reward your most valuable customers, fostering long-term relationships.
+- **Optimize acquisition strategies:** Attract and convert high-value customers based on insightful profiling.
+- **Improve resource allocation:** Focus efforts on the customer segments that drive the most revenue and orders.
+  
+This Customer Insights Dashboard empowers you to truly understand your customers, building stronger relationships and driving sustainable business growth.
+
+### Decomposition trees page:
+They empower users to conduct independent analysis, dissecting data across categories and subcategories. They unlock granular insights, as illustrated by the example where total revenue can be broken down to reveal the specific products and their corresponding categories/subcategories driving profit.
+
+### Stay Up-to-Speed on Business Performance, Wherever You Are: The Mobile Executive Dashboard
+This mobile-optimized dashboard empowers executives to stay on top of key business metrics – total revenue and profit, measured against targets – anytime, anywhere. Crafted with the convenience of mobile in mind, it mirrors the look and feel of the desktop layout, ensuring familiarity and ease of use.
+
+**Key Features:**
+
+- **Essential Metrics at a Glance:** Monitor overall revenue and profit performance, instantly assessing progress towards targets.
+- **Data-Driven Insights in Your Pocket:** Make informed decisions on the go, equipped with the latest performance indicators.
+- **Intuitive Design:** Enjoy the same color scheme and chart types as the desktop dashboard, ensuring a seamless transition.
+- **Responsive Layout:** Access critical information flawlessly on any device, regardless of screen size.
+
+**Empowering Benefits:**
+
+- **Accessibility:** Stay informed wherever your day takes you, fostering agile decision-making.
+- **Convenience:** Ditch the laptop, access vital data at your fingertips when it matters most.
+- **Timely Action:** React quickly to changes or emerging trends, ensuring competitive advantage.
+  
+This mobile executive dashboard transcends geographical limitations, keeping you connected to your business and empowering you to make informed decisions on the go.
+
   
 ## Demo <a name="demo"></a>
 For viewing a sample of result please check here https://github.com/masumesani/Interactive-Dashboard-Using-Power-BI/blob/main/AdventureWorkDashboard.pdf
@@ -80,7 +173,7 @@ This project embarks on a journey to unlock the secrets behind Adventure Works, 
 Check the DB Model Diagram here https://dbdiagram.io/d/Adventure-Work-657f111756d8064ca02ecfe3
 ![Adventure Work Data model diagram  (1)](https://github.com/masumesani/Interactive-Dashboard-Using-Power-BI/assets/31848828/fea8bcb4-859a-468e-9ace-ce95941d175c)
 
-## Approach and Technologies <a name = "approach"></a>
+## Technologies <a name = "techs"></a>
 
 Empowering data-driven decisions, developed a comprehensive Business Intelligence dashboard using Power BI.<br/>
 - **Utilizing Power Query** for seamless data acquisition and transformation,
@@ -89,7 +182,8 @@ Empowering data-driven decisions, developed a comprehensive Business Intelligenc
 - **Integrated data modeling** (snowflake schema),
 - **Robust statistical analysis**,
 - **Interactive reporting** to provide a holistic view of business performance.Given stakeholders can now confidently navigate dynamic reports, gleaning critical insights to make informed choices.
-
+- 
+## Approach  <a name = "approach"></a>
 To bring data to life and implement an effective, actionable insight following steps of data science methodology were taken: 
 ```mermaid
 graph TD;

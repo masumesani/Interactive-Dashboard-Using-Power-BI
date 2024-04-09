@@ -6,11 +6,11 @@
 - [Demo](#demo)
 - [Business Understanding](#workflow)
 - [Data Understanding](#data_undestanding)
-- [Screenshot of visualization/result](#screenshot)
+- [Screenshot of Visualization/Result](#screenshot)
+- [Database Model Diagram](#database)
 - [Technologies](#techs)
 - [Setup](#setup)
 - [Approach](#approach)
-- [Database Model Diagram](#database)
 - [Status](#status)
 - [Credits](#credits)
 ## About <a name = "about"></a>
@@ -181,7 +181,7 @@ This project embarks on a journey to unlock the secrets behind Adventure Works, 
 - **Sales Success Stories:** Analyze sales figures and identify key drivers of revenue using the sales data.<br/>
 - **Return Reflections:** Gain insights into customer returns with the return data, potentially revealing product issues or opportunities for improvement.<br/>
 
-## Screenshot of visualization/result <a name="screenshot"></a>
+## Screenshot of Visualization/Result <a name="screenshot"></a>
 Following is a screenshot of Executive Dashboard
 
 
@@ -210,7 +210,7 @@ For setup follow steps [here](https://learn.microsoft.com/en-us/power-bi/fundame
 To bring data to life and implement an effective, actionable insight following steps of data science methodology were taken: 
 ```mermaid
 graph TD;
-    id1(Business understandin)-->id2(Data exploration and preparation);
+    id1(Business understanding)-->id2(Data exploration and preparation);
     id2-->id3(Data representation and transformation);
     id3-->id4(Data visualization and presentation);
 ```

@@ -16,7 +16,7 @@
 ## About <a name = "about"></a>
 **Adventure works Bussiness Intelligence Reports** is part of assingment for Microsoft Power BI Desktop for Business Intelligence (2023) taught by Maven Analytics, Chris Dutton, Aaron Parry on Udemy. I Transformed Data into Business Insights for Adventure Works.<br/>
 This interactive dashboard includs: 
-- Executive DAshboard
+- Executive Dashboard
 - Map
 - Product Detail
 - Customer Detail
